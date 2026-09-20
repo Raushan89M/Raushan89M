@@ -1,191 +1,358 @@
 
-# 👋 Hi, I'm Raushan Raj
+<!-- ================= HEADER ================= -->
 
-<h3 align="center">🚀 Engineering Student | Full-Stack Developer | Cybersecurity Learner 🔐</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Development+Enthusiast;Cybersecurity+%26+Ethical+Hacking+Learner;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B32,100:00FF88&height=250&section=header&text=RAUSHAN%20RAJ&fontSize=60&fontColor=00FF88&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raushan89M&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Raushan+Raj+%F0%9F%91%8B;Cybersecurity+%7C+Bug+Bounty+Learner;Web+%26+API+Security+Enthusiast;Android+Pentesting+Learner+%F0%9F%93%B1;Full-Stack+Development+%F0%9F%92%BB;Learning+%7C+Building+%7C+Securing+%F0%9F%94%90" alt="Typing SVG"/>
 
----
+<br>
 
-## 💫 About Me
+<img src="https://komarev.com/ghpvc/?username=Raushan89M&label=PROFILE+VIEWS&color=00FF88&style=for-the-badge"/>
 
-Hi, I'm **Raushan Raj** 👋
+<img src="https://img.shields.io/github/followers/Raushan89M?label=FOLLOWERS&style=for-the-badge&color=003B32"/>
 
-🎓 Engineering Student passionate about technology and innovation.
+<img src="https://img.shields.io/github/stars/Raushan89M?label=STARS&style=for-the-badge&color=00FF88"/>
 
-💻 Aspiring Full-Stack Developer & Cybersecurity Professional.
+<br><br>
 
-🔐 Currently exploring Cybersecurity, Ethical Hacking, Networking, and Linux.
+<img src="https://img.shields.io/badge/CYBERSECURITY-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/BUG_BOUNTY-003B32?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_SECURITY-00FF88?style=for-the-badge&logo=fastapi&logoColor=black"/>
+<img src="https://img.shields.io/badge/ANDROID_PENTESTING-003B32?style=for-the-badge&logo=android&logoColor=white"/>
 
-🌱 Learning how to build secure, scalable, and real-world applications.
+<br><br>
 
-🚀 My goal is to combine **Web Development + Cybersecurity** to create impactful projects.
+**🔐 Ethical Hacking • Web Security • API • Linux • Networking**
 
-### 🧠 What I'm Learning
-
-- 🔐 Cybersecurity & Ethical Hacking
-- 🌐 Computer Networking
-- 🐧 Linux & Security Tools
-- 💻 Full-Stack Web Development
-- ☕ Java & Spring Boot
-- 🗄️ Database Management
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👋 About Me
 
-### 💻 Programming Languages
+<img align="right" width="260" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+### Hi, I'm Raushan Raj 🚀
 
-### 🌐 Web Development
+🎓 Engineering Student
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
+💻 Web Development Learner
 
-### 🗄️ Database & Tools
+🔐 Cybersecurity Enthusiast
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+🐞 Bug Bounty Learner
 
-### 🔐 Cybersecurity
+🐧 Linux & Networking Explorer
 
-<p>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethical_Hacking-2C2C2C?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</p>
+I'm passionate about **Cybersecurity, Ethical Hacking, Web Development, and Backend Technologies.**
+
+Currently learning security fundamentals, vulnerability research, networking, Linux, and modern web technologies.
+
+I enjoy exploring new concepts, practicing in authorized labs, and building real-world projects.
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 My Cybersecurity Journey
 
-### 🇮🇳 1. India Culture & Heritage Website
+<div align="center">
 
-A web platform focused on exploring India's culture, historical places, and heritage.
+<img src="https://img.shields.io/badge/01-RECONNAISSANCE-00FF88?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/02-ENUMERATION-003B32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-SECURITY_TESTING-00FF88?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/04-VALIDATION-003B32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05-REPORTING-00FF88?style=for-the-badge&logoColor=black"/>
 
-**Technologies:**
-- HTML, CSS, JavaScript
-- React.js
-- Spring Boot
-- PostgreSQL
-- Google Maps API
+</div>
 
-**Goal:** Create an interactive digital experience for discovering India's cultural heritage.
+### 🔐 Currently Exploring
 
----
-
-### 🛒 2. Online Electronics Selling Website
-
-An e-commerce website designed to showcase and sell electronic products.
-
-**Technologies:**
-- HTML
-- CSS
-- JavaScript
-
-**Products:** Mobile Phones, Freezers, Washing Machines
-
-**Goal:** Build a user-friendly online shopping experience.
+- 🐞 Bug Bounty & Vulnerability Research
+- 🌐 Web Application Security
+- 🔌 API Security
+- 📱 Android Pentesting
+- 🛡️ VAPT
+- 🔎 Reconnaissance & Enumeration
+- 🐧 Linux & Networking
+- 🐍 Python Security Automation
 
 ---
 
-## 📚 Currently Learning
+# 💻 Programming Languages
 
-```text
-🔐 Cybersecurity & Ethical Hacking
-🌐 Networking & Information Security
-🐧 Linux & Security Tools
-💻 Java & Spring Boot
-⚛️ React.js
-🗄️ PostgreSQL
-🚀 Full-Stack Development
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,cpp,python,java,js"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</div>
+
+---
+
+# 🛠️ Technologies & Tools
+
+<div align="center">
+
+### 🌐 Web & Backend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,spring,postgres"/>
+
+### 🐧 Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github"/>
+
+### 🔐 Cybersecurity Tools
+
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+
+</div>
+
+---
+
+# 🐞 Bug Bounty & Web Security
+
+I'm learning how web applications and APIs work and exploring security testing methodologies in authorized environments.
+
+### 📚 Topics
+
+```text id="wsec01"
+🌐 Web Application Security
+    ├── OWASP Top 10
+    ├── Authentication
+    ├── Authorization
+    ├── Access Control
+    ├── Input Validation
+    ├── XSS
+    └── SQL Injection Concepts
+
+🔌 API Security
+    ├── API Recon
+    ├── Endpoint Discovery
+    ├── Authentication
+    ├── Authorization
+    ├── Parameter Testing
+    └── API Security Fundamentals
 ```
 
 ---
 
-## 📊 GitHub Statistics
+# 📱 Android Pentesting
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raushan89M&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raushan89M&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
-</p>
+### 🔍 Learning Path
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Raushan89M&theme=tokyonight&hide_border=true" />
-</p>
+- APK Analysis
+- Android Manifest
+- ADB
+- Emulator Setup
+- Android Permissions
+- Traffic Interception
+- API Communication
+- Mobile Application Security
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raushan89M&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/Raushan_89m" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/Raushan%20raj" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://x.com/4aushan" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+```text id="android01"
+📦 APK
+   ↓
+🔍 Static Analysis
+   ↓
+🤖 Emulator Setup
+   ↓
+🔬 Dynamic Analysis
+   ↓
+🌐 Traffic Analysis
+   ↓
+📝 Documentation
+```
 
 ---
 
-## 💡 My Developer Philosophy
+# 🛡️ VAPT & Reconnaissance
 
-> "Learn continuously. Build consistently. Secure everything."
+<div align="center">
 
-🎯 **My Goal:** To become a skilled Cybersecurity Professional and Full-Stack Developer by building innovative, secure, and real-world applications.
+<img src="https://img.shields.io/badge/VAPT-00FF88?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/RECON-003B32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ENUMERATION-00FF88?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/RESPONSIBLE_DISCLOSURE-003B32?style=for-the-badge"/>
+
+</div>
+
+### 🔎 Security Workflow
+
+```text id="vapt01"
+       🔎 RECONNAISSANCE
+              ↓
+       🔍 ENUMERATION
+              ↓
+    🗺️ ATTACK SURFACE
+              ↓
+    🧪 VULNERABILITY ASSESSMENT
+              ↓
+        ✅ VALIDATION
+              ↓
+       📝 REPORTING
+              ↓
+       🛠️ REMEDIATION
+```
 
 ---
 
-## ✍️ Random Developer Quote
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+## 🇮🇳 India Culture & Heritage Website
+
+An interactive website concept for exploring India's culture, historical places, and heritage.
+
+**Tech Stack:**
+
+`HTML` `CSS` `JavaScript` `React.js` `Spring Boot` `PostgreSQL` `Google Maps API`
 
 ---
 
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
-</p>
+## 🛒 Online Electronics Selling Website
 
-<p align="center">
-  💙 Thanks for visiting my GitHub profile!
-</p>
+An e-commerce website for showcasing electronic products.
+
+**Tech Stack:**
+
+`HTML` `CSS` `JavaScript`
+
+**Products:**
+
+📱 Mobile | ❄️ Freezer | 🧺 Washing Machine
+
+---
+
+# 🐍 Python for Cybersecurity
+
+I'm exploring Python for scripting, automation, and security-related utilities.
+
+```text id="python01"
+🐍 Python
+    ↓
+📝 Scripting
+    ↓
+⚙️ Automation
+    ↓
+🌐 Networking
+    ↓
+🔐 Security Utilities
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Raushan89M&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raushan89M&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Raushan89M&theme=dark&hide_border=true&border_radius=15&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Raushan89M&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raushan89M&theme=chartreuse-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🎯 My Goals
+
+- [ ] Master Web Application Security Fundamentals
+- [ ] Explore API Security
+- [ ] Learn Android Pentesting
+- [ ] Improve Bug Bounty Skills
+- [ ] Strengthen Linux & Networking
+- [ ] Build Security-Focused Projects
+- [ ] Learn Python Automation
+- [ ] Become a Cybersecurity Professional
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Raushan89M">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/Raushan_89m">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/Raushan%20raj">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://x.com/4aushan">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚠️ Ethical Security
+
+<div align="center">
+
+All security testing and vulnerability research is performed only on authorized systems, labs, CTFs, and programs where permission is granted.
+
+### 🔐 Learn Ethically • Practice Responsibly • Build Securely
+
+</div>
+
+---
+
+<div align="center">
+
+### `LEARN • PRACTICE • BUILD • SECURE`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%BB;Keep+Exploring+Cybersecurity+%F0%9F%94%90"/>
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B32,100:00FF88&height=130&section=footer"/>
+
+</div>
